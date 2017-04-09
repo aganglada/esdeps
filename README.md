@@ -2,6 +2,12 @@
 
 Command-line tool to easily check your dependencies versions.
 
+## Install
+
+```
+$ npm install esdeps -g
+```
+
 ## Usage
 
 Using `esdeps` is quite simple. Go to the root folder of your project, where your `package.json` is and run:
