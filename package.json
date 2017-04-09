@@ -1,0 +1,16 @@
+{
+  "name": "esdeps",
+  "version": "1.0.0",
+  "description": "Command line tool for js dependencies version checker",
+  "bin": {
+    "esdeps": "./index.js"
+  },
+  "author": "Alejandro Garcia Anglada",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "node-emoji": "^1.5.1",
+    "request": "^2.81.0"
+  }
+}
